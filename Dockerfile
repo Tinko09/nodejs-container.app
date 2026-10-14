@@ -12,7 +12,7 @@ COPY package*.json ./
 
 RUN npm install
 
-# Copy the application code
+# Copy the application cod
 
 COPY . .
 
